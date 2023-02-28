@@ -16,5 +16,5 @@ I'm just going to tell you two things that are needed to run the bot:
 
 `From now on I clarify that I am not going to give any type of support, in any area. So don't try to ask me something related to this`
 
-This bot is not for people who don't have even a minimal, very minimal programming idea.
+This bot is not for people who don't have even a minimal, very minimal programming idea, so the copy-paste is only your responsability.
 
