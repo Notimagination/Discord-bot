@@ -1,8 +1,8 @@
 # Discord-bot
 
-This bot was my first big project, since 2019.
+This bot was my first "big" project, since 2019.
 
-I have not been very active in this project, since it did not receive the support that I thought it could have. 
+I have not been very active in this project (i think the last update was on early 2022), since it did not receive the support that I thought it could have. 
 
 Due to the constant changes that Discord makes, this project has become very outdated (but still fully functional), so there are many things to do/finish, as well as many bugs that are not fixed.
 
